@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there 👋 I'm Jonamie Javier
 
-<!--
-**javierjonamie0/javierjonamie0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩 About Me
+- 👩‍🎓 4th Year **BSIT Student** at *Laguna State Polytechnic University*  
+- 💻 Aspiring Web Developer  
+- 🔥 Passionate about learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Goals
+- Expanding my knowledge in **Web Development** 🌐  
+- Learning more about **Python 🐍** and **Databases 🗄️**  
+- Working on my **Capstone Project** 📚  
+
+---
+
+## 🛠️ Skills
+- Beginner in **Python** 🐍  
+- Beginner in **MySQL** 🗄️  
+- Basic knowledge in **HTML, CSS, JavaScript** ✨  
+
+---
+
+## 📬 Contact
+- 📧 Email: **jonamiej06@gmail.com**  
+- 🐙 GitHub: [JonamieJavier](https://github.com/JonamieJavier)  
+
+---
+⭐ *“Code. Learn. Build. Repeat.”*  
+
+
+
+  
