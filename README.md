@@ -25,7 +25,7 @@
 
 ## 📬 Contact
 - 📧 Email: **jonamiej06@gmail.com**  
-- 🐙 GitHub: [JonamieJavier](https://github.com/JonamieJavier)  
+- 🐙 GitHub: [JonamieJavier](https://github.com/javierjonamie0) 
 
 ---
 ⭐ *“Code. Learn. Build. Repeat.”*  
